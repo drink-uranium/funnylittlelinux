@@ -1,1 +1,1 @@
-log "hello world"
+echo "hello world"
